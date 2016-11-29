@@ -1,4 +1,3 @@
-package Project2;
 import java.io.RandomAccessFile;
 import java.text.SimpleDateFormat;
 import java.io.File;
